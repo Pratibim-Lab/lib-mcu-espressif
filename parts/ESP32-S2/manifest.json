@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Espressif/ESP32-S2:ESP32-S2",
+  "name": "ESP32-S2",
+  "library": "MCU_Espressif",
+  "file": "MCU_Espressif.kicad_symdir/ESP32-S2.kicad_sym",
+  "description": "Microcontroller, Wi-Fi 802.11b/g/n, Bluetooth, 32bit",
+  "datasheet": "https://www.espressif.com/sites/default/files/documentation/esp32-s2_datasheet_en.pdf",
+  "keywords": "Microcontroller Wi-Fi BT ESP ESP32 Espressif",
+  "footprint": "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP4x4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-espressif@master/parts/ESP32-S2/",
+  "part_path": "parts/ESP32-S2",
+  "symbol_file": "parts/ESP32-S2/ESP32-S2.kicad_sym",
+  "source_library": "MCU_Espressif.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:02.273Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Espressif/ESP8266EX:ESP8266EX",
+  "name": "ESP8266EX",
+  "library": "MCU_Espressif",
+  "file": "MCU_Espressif.kicad_symdir/ESP8266EX.kicad_sym",
+  "description": "Highly integrated Wi-Fi SoC, QFN-32",
+  "datasheet": "http://espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf",
+  "keywords": "wifi soc",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-espressif@master/parts/ESP8266EX/",
+  "part_path": "parts/ESP8266EX",
+  "symbol_file": "parts/ESP8266EX/ESP8266EX.kicad_sym",
+  "source_library": "MCU_Espressif.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:02.284Z"
+}

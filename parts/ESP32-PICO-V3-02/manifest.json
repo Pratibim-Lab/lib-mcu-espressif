@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Espressif/ESP32-PICO-V3-02:ESP32-PICO-V3-02",
+  "name": "ESP32-PICO-V3-02",
+  "library": "MCU_Espressif",
+  "file": "MCU_Espressif.kicad_symdir/ESP32-PICO-V3-02.kicad_sym",
+  "description": "RF Module, ESP32 SoC, 8MB In-Package flash, 2MB In-Package PSRAM, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 3.0-3.6V, external antenna, QFN-48",
+  "datasheet": "https://www.espressif.com/sites/default/files/documentation/esp32-pico_series_datasheet_en.pdf",
+  "keywords": "RF Radio BT ESP ESP32 Espressif external antenna",
+  "footprint": "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-espressif@master/parts/ESP32-PICO-V3-02/",
+  "part_path": "parts/ESP32-PICO-V3-02",
+  "symbol_file": "parts/ESP32-PICO-V3-02/ESP32-PICO-V3-02.kicad_sym",
+  "source_library": "MCU_Espressif.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:02.265Z"
+}

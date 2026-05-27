@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Espressif/ESP32-C3:ESP32-C3",
+  "name": "ESP32-C3",
+  "library": "MCU_Espressif",
+  "file": "MCU_Espressif.kicad_symdir/ESP32-C3.kicad_sym",
+  "description": "RF Module, ESP32 SoC, RISC-V, WiFi 802.11b/n/g, Bluetooth LE 5, QFN32",
+  "datasheet": "https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf",
+  "keywords": "WiFi BLE ESP32 Espressif",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.7x3.7mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-espressif@master/parts/ESP32-C3/",
+  "part_path": "parts/ESP32-C3",
+  "symbol_file": "parts/ESP32-C3/ESP32-C3.kicad_sym",
+  "source_library": "MCU_Espressif.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:02.260Z"
+}
